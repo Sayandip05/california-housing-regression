@@ -43,18 +43,12 @@ The goal of this project is to build a strong foundation in regression analysis:
 4. **Model Building:**
    - Linear Regression (single feature)  
    - Multiple Linear Regression (all features)  
-5. **Evaluation:**
-   - R² Score  
-   - Mean Squared Error (MSE)  
-   - Visualize predictions vs actual values  
-
 ---
 
 ## Results
 - **Linear Regression (1 feature):** Basic understanding of regression.  
 - **Multiple Linear Regression:** More accurate, realistic predictions.  
 - Visualizations (scatter, regression line, 3D surface, heatmap) provided clear insights.  
-- **R² Score:** ~ (fill after running model).  
 
 ---
 
